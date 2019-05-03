@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT clinicaltrials_2960.wsgi:application
